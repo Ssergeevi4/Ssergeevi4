@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergeevi4&&show_icons=true&theme=great-gatsby&locale=ru)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ssergeevi4&theme=great-gatsby&locale=ru)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergeevi4&theme=great-gatsby&locale=ru=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ssergeevi4=anuraghazra&layout=compact&theme=great-gatsby&locale=ru)
