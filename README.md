@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ssergeevi4&theme=great-gatsby&locale=ru)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergeevi4)](https://github.com/anuraghazra/github-readme-stats)
