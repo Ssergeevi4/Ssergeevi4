@@ -5,6 +5,3 @@
 
 ## Популярные языки
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergeevi4&layout=compact&theme=dark)
-
-## Моя активность на WakaTime
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ssergeevi4&theme=dark)
