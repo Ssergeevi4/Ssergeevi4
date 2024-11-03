@@ -1,6 +1,5 @@
 # Sergeevi4
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergeevi4&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ssergeevi4&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergeevi4&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergeevi4&layout=compact&theme=dark)
